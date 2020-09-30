@@ -39,7 +39,7 @@ Contributions, issues and feature requests are welcome.
 
 ## Author
 
- **Jon Ziebell**
+ **Git hub**
 
 Hi! This is a passion project of mine and I'm thrilled to be able to share it with the world. I developed beestat from the ground up and have tons of ideas to grow this project further.
 
